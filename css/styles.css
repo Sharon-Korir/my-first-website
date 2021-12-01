@@ -1,16 +1,9 @@
-h1 {
-  color: blue;
-  text-align: center;
-  font-size: larger;
-}
-h2{
-  color: green;
+.intro {
   font-style: italic;
-  text-align: center;
 }
-p {
-  font-family: sans-serif;
+.author {
+  color: red;
 }
-ul {
-  line-height: 40px;
+p.author{
+  font-size: 12px;
 }
